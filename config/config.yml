@@ -1,0 +1,16 @@
+Cred:
+  Username: securing.bags
+  Password: 123testing123
+
+HashTags:
+  - coding
+  - developer
+
+MaxImagePerHashTag: 1
+MaxImagePerDiscoverPage: 2
+
+Comments:
+  - Nice one
+  - Coding is cool
+  - Cool
+  - Beautiful
